@@ -1,4 +1,6 @@
 .terraform/
 *.tfstate
-*.tfstate.backup
+*.tfstate.*
 *.tfvars
+*.pem
+*.key
